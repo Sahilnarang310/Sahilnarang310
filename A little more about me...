@@ -1,0 +1,18 @@
+ A little more about me...
+const sahil = {
+    pronouns: "He" | "Him",
+    code: ["Javascript","HTML", "CSS", "jsx"],
+    frameworks: ["BootStrap", "jQuery", "Express"],
+    askMeAbout: ["web dev", "tech", "AR/VR"],
+    technologies: {
+        fullstack: {
+            js: ["Node", "Express", "React","redux@toolkit],
+        },
+        devOps: ["AWS"],
+        databases: ["MySql", "sequelize", "NOSQL"],
+        misc: ["Firebase"]
+    },
+    currentFocus: "GettinG in MANG C",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+ I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
